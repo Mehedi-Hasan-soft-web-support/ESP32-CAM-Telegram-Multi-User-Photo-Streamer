@@ -49,7 +49,7 @@ const String BOT_TOKEN = "8447024742:AAFDLc_v3_sRZXjaYnONttL_8i66YwSZdbo";
 
 // Multiple Chat IDs - Add more users here
 const String CHAT_IDS[] = {
-  "6032672417",  // User 1
+  "1212121121",  // User 1
   "5093700812"   // User 2
 };
 const int TOTAL_USERS = 2; // Update this number when adding more users
